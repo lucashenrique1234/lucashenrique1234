@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem-vindos 👋
 
-<!--
-**lucashenrique1234/lucashenrique1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou estudante do curso Alura.
+- Tenho 17 anos.
+- Faço tecnológia e Robótica.
+- Sou estudante da Escola Ruty Dalva.
+- Esse espaço é para postar meus projetos.
 
-Here are some ideas to get you started:
+- Entre em contato 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  00001087248577SP@aluno.educacao.sp.gov.br
+
+  ![](https://media1.tenor.com/m/mEI0LWZRrr0AAAAC/verstappen-max-verstappen.gif)
+  
